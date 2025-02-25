@@ -225,7 +225,7 @@ A well-structured prompt helps minimize ambiguous or biased responses from AI.
 Improved Prompt
 ✅ "Provide a summary of the key events of World War II, including its causes, major battles, and outcomes, in 300 words."
 
-*Why the Improved Prompt is More Effective?
+Why the Improved Prompt is More Effective?
 More Specific  – Instead of a broad topic like "history," the improved prompt focuses on a particular event (World War II).
 Clear Expectations  – It specifies the details needed (causes, battles, outcomes), preventing irrelevant or overly general information.
 Concise Word Limit  – Setting a 300-word constraint ensures a focused, digestible response.
